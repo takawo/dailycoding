@@ -1,0 +1,350 @@
+[
+  {
+    "char": "🂠",
+    "unicode": "0x1F0A0",
+    "description": "PLAYING CARD BACK",
+    "fromCodePoint": 127136
+  },
+  {
+    "char": "🂡",
+    "unicode": "0x1F0A1",
+    "description": "PLAYING CARD ACE OF SPADES",
+    "fromCodePoint": 127137
+  },
+  {
+    "char": "🂢",
+    "unicode": "0x1F0A2",
+    "description": "PLAYING CARD TWO OF SPADES",
+    "fromCodePoint": 127138
+  },
+  {
+    "char": "🂣",
+    "unicode": "0x1F0A3",
+    "description": "PLAYING CARD THREE OF SPADES",
+    "fromCodePoint": 127139
+  },
+  {
+    "char": "🂤",
+    "unicode": "0x1F0A4",
+    "description": "PLAYING CARD FOUR OF SPADES",
+    "fromCodePoint": 127140
+  },
+  {
+    "char": "🂥",
+    "unicode": "0x1F0A5",
+    "description": "PLAYING CARD FIVE OF SPADES",
+    "fromCodePoint": 127141
+  },
+  {
+    "char": "🂦",
+    "unicode": "0x1F0A6",
+    "description": "PLAYING CARD SIX OF SPADES",
+    "fromCodePoint": 127142
+  },
+  {
+    "char": "🂧",
+    "unicode": "0x1F0A7",
+    "description": "PLAYING CARD SEVEN OF SPADES",
+    "fromCodePoint": 127143
+  },
+  {
+    "char": "🂨",
+    "unicode": "0x1F0A8",
+    "description": "PLAYING CARD EIGHT OF SPADES",
+    "fromCodePoint": 127144
+  },
+  {
+    "char": "🂩",
+    "unicode": "0x1F0A9",
+    "description": "PLAYING CARD NINE OF SPADES",
+    "fromCodePoint": 127145
+  },
+  {
+    "char": "🂪",
+    "unicode": "0x1F0AA",
+    "description": "PLAYING CARD TEN OF SPADES",
+    "fromCodePoint": 127146
+  },
+  {
+    "char": "🂫",
+    "unicode": "0x1F0AB",
+    "description": "PLAYING CARD JACK OF SPADES",
+    "fromCodePoint": 127147
+  },
+  {
+    "char": "🂬",
+    "unicode": "0x1F0AC",
+    "description": "PLAYING CARD KNIGHT OF SPADES",
+    "fromCodePoint": 127148
+  },
+  {
+    "char": "🂭",
+    "unicode": "0x1F0AD",
+    "description": "PLAYING CARD QUEEN OF SPADES",
+    "fromCodePoint": 127149
+  },
+  {
+    "char": "🂮",
+    "unicode": "0x1F0AE",
+    "description": "PLAYING CARD KING OF SPADES",
+    "fromCodePoint": 127150
+  },
+  {
+    "char": "🂱",
+    "unicode": "0x1F0B1",
+    "description": "PLAYING CARD ACE OF HEARTS",
+    "fromCodePoint": 127153
+  },
+  {
+    "char": "🂲",
+    "unicode": "0x1F0B2",
+    "description": "PLAYING CARD TWO OF HEARTS",
+    "fromCodePoint": 127154
+  },
+  {
+    "char": "🂳",
+    "unicode": "0x1F0B3",
+    "description": "PLAYING CARD THREE OF HEARTS",
+    "fromCodePoint": 127155
+  },
+  {
+    "char": "🂴",
+    "unicode": "0x1F0B4",
+    "description": "PLAYING CARD FOUR OF HEARTS",
+    "fromCodePoint": 127156
+  },
+  {
+    "char": "🂵",
+    "unicode": "0x1F0B5",
+    "description": "PLAYING CARD FIVE OF HEARTS",
+    "fromCodePoint": 127157
+  },
+  {
+    "char": "🂶",
+    "unicode": "0x1F0B6",
+    "description": "PLAYING CARD SIX OF HEARTS",
+    "fromCodePoint": 127158
+  },
+  {
+    "char": "🂷",
+    "unicode": "0x1F0B7",
+    "description": "PLAYING CARD SEVEN OF HEARTS",
+    "fromCodePoint": 127159
+  },
+  {
+    "char": "🂸",
+    "unicode": "0x1F0B8",
+    "description": "PLAYING CARD EIGHT OF HEARTS",
+    "fromCodePoint": 127160
+  },
+  {
+    "char": "🂹",
+    "unicode": "0x1F0B9",
+    "description": "PLAYING CARD NINE OF HEARTS",
+    "fromCodePoint": 127161
+  },
+  {
+    "char": "🂺",
+    "unicode": "0x1F0BA",
+    "description": "PLAYING CARD TEN OF HEARTS",
+    "fromCodePoint": 127162
+  },
+  {
+    "char": "🂻",
+    "unicode": "0x1F0BB",
+    "description": "PLAYING CARD JACK OF HEARTS",
+    "fromCodePoint": 127163
+  },
+  {
+    "char": "🂼",
+    "unicode": "0x1F0BC",
+    "description": "PLAYING CARD KNIGHT OF HEARTS",
+    "fromCodePoint": 127164
+  },
+  {
+    "char": "🂽",
+    "unicode": "0x1F0BD",
+    "description": "PLAYING CARD QUEEN OF HEARTS",
+    "fromCodePoint": 127165
+  },
+  {
+    "char": "🂾",
+    "unicode": "0x1F0BE",
+    "description": "PLAYING CARD KING OF HEARTS",
+    "fromCodePoint": 127166
+  },
+  {
+    "char": "🃁",
+    "unicode": "0x1F0C1",
+    "description": "PLAYING CARD ACE OF DIAMONDS",
+    "fromCodePoint": 127169
+  },
+  {
+    "char": "🃂",
+    "unicode": "0x1F0C2",
+    "description": "PLAYING CARD TWO OF DIAMONDS",
+    "fromCodePoint": 127170
+  },
+  {
+    "char": "🃃",
+    "unicode": "0x1F0C3",
+    "description": "PLAYING CARD THREE OF DIAMONDS",
+    "fromCodePoint": 127171
+  },
+  {
+    "char": "🃄",
+    "unicode": "0x1F0C4",
+    "description": "PLAYING CARD FOUR OF DIAMONDS",
+    "fromCodePoint": 127172
+  },
+  {
+    "char": "🃅",
+    "unicode": "0x1F0C5",
+    "description": "PLAYING CARD FIVE OF DIAMONDS",
+    "fromCodePoint": 127173
+  },
+  {
+    "char": "🃆",
+    "unicode": "0x1F0C6",
+    "description": "PLAYING CARD SIX OF DIAMONDS",
+    "fromCodePoint": 127174
+  },
+  {
+    "char": "🃇",
+    "unicode": "0x1F0C7",
+    "description": "PLAYING CARD SEVEN OF DIAMONDS",
+    "fromCodePoint": 127175
+  },
+  {
+    "char": "🃈",
+    "unicode": "0x1F0C8",
+    "description": "PLAYING CARD EIGHT OF DIAMONDS",
+    "fromCodePoint": 127176
+  },
+  {
+    "char": "🃉",
+    "unicode": "0x1F0C9",
+    "description": "PLAYING CARD NINE OF DIAMONDS",
+    "fromCodePoint": 127177
+  },
+  {
+    "char": "🃊",
+    "unicode": "0x1F0CA",
+    "description": "PLAYING CARD TEN OF DIAMONDS",
+    "fromCodePoint": 127178
+  },
+  {
+    "char": "🃋",
+    "unicode": "0x1F0CB",
+    "description": "PLAYING CARD JACK OF DIAMONDS",
+    "fromCodePoint": 127179
+  },
+  {
+    "char": "🃌",
+    "unicode": "0x1F0CC",
+    "description": "PLAYING CARD KNIGHT OF DIAMONDS",
+    "fromCodePoint": 127180
+  },
+  {
+    "char": "🃍",
+    "unicode": "0x1F0CD",
+    "description": "PLAYING CARD QUEEN OF DIAMONDS",
+    "fromCodePoint": 127181
+  },
+  {
+    "char": "🃎",
+    "unicode": "0x1F0CE",
+    "description": "PLAYING CARD KING OF DIAMONDS",
+    "fromCodePoint": 127182
+  },
+  {
+    "char": "🃑",
+    "unicode": "0x1F0D1",
+    "description": "PLAYING CARD ACE OF CLUBS",
+    "fromCodePoint": 127185
+  },
+  {
+    "char": "🃒",
+    "unicode": "0x1F0D2",
+    "description": "PLAYING CARD TWO OF CLUBS",
+    "fromCodePoint": 127186
+  },
+  {
+    "char": "🃓",
+    "unicode": "0x1F0D3",
+    "description": "PLAYING CARD THREE OF CLUBS",
+    "fromCodePoint": 127187
+  },
+  {
+    "char": "🃔",
+    "unicode": "0x1F0D4",
+    "description": "PLAYING CARD FOUR OF CLUBS",
+    "fromCodePoint": 127188
+  },
+  {
+    "char": "🃕",
+    "unicode": "0x1F0D5",
+    "description": "PLAYING CARD FIVE OF CLUBS",
+    "fromCodePoint": 127189
+  },
+  {
+    "char": "🃖",
+    "unicode": "0x1F0D6",
+    "description": "PLAYING CARD SIX OF CLUBS",
+    "fromCodePoint": 127190
+  },
+  {
+    "char": "🃗",
+    "unicode": "0x1F0D7",
+    "description": "PLAYING CARD SEVEN OF CLUBS",
+    "fromCodePoint": 127191
+  },
+  {
+    "char": "🃘",
+    "unicode": "0x1F0D8",
+    "description": "PLAYING CARD EIGHT OF CLUBS",
+    "fromCodePoint": 127192
+  },
+  {
+    "char": "🃙",
+    "unicode": "0x1F0D9",
+    "description": "PLAYING CARD NINE OF CLUBS",
+    "fromCodePoint": 127193
+  },
+  {
+    "char": "🃚",
+    "unicode": "0x1F0DA",
+    "description": "PLAYING CARD TEN OF CLUBS",
+    "fromCodePoint": 127194
+  },
+  {
+    "char": "🃛",
+    "unicode": "0x1F0DB",
+    "description": "PLAYING CARD JACK OF CLUBS",
+    "fromCodePoint": 127195
+  },
+  {
+    "char": "🃜",
+    "unicode": "0x1F0DC",
+    "description": "PLAYING CARD KNIGHT OF CLUBS",
+    "fromCodePoint": 127196
+  },
+  {
+    "char": "🃝",
+    "unicode": "0x1F0DD",
+    "description": "PLAYING CARD QUEEN OF CLUBS",
+    "fromCodePoint": 127197
+  },
+  {
+    "char": "🃞",
+    "unicode": "0x1F0DE",
+    "description": "PLAYING CARD KING OF CLUBS",
+    "fromCodePoint": 127198
+  },
+  {
+    "char": "🃟",
+    "unicode": "0x1F0DF",
+    "description": "PLAYING CARD WHITE JOKER",
+    "fromCodePoint": 127199
+  }
+]
