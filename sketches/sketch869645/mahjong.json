@@ -1,0 +1,266 @@
+[
+  {
+    "char": "🀀",
+    "unicode": "1F000",
+    "description": "MAHJONG TILE EAST WIND",
+    "fromCodePoint": 126976
+  },
+  {
+    "char": "🀁",
+    "unicode": "1F001",
+    "description": "MAHJONG TILE SOUTH WIND",
+    "fromCodePoint": 126977
+  },
+  {
+    "char": "🀂",
+    "unicode": "1F002",
+    "description": "MAHJONG TILE WEST WIND",
+    "fromCodePoint": 126978
+  },
+  {
+    "char": "🀃",
+    "unicode": "1F003",
+    "description": "MAHJONG TILE NORTH WIND",
+    "fromCodePoint": 126979
+  },
+  {
+    "char": "🀄",
+    "unicode": "1F004",
+    "description": "MAHJONG TILE RED DRAGON",
+    "fromCodePoint": 126980
+  },
+  {
+    "char": "🀅",
+    "unicode": "1F005",
+    "description": "MAHJONG TILE GREEN DRAGON",
+    "fromCodePoint": 126981
+  },
+  {
+    "char": "🀆",
+    "unicode": "1F006",
+    "description": "MAHJONG TILE WHITE DRAGON",
+    "fromCodePoint": 126982
+  },
+  {
+    "char": "🀇",
+    "unicode": "1F007",
+    "description": "MAHJONG TILE ONE OF CHARACTERS",
+    "fromCodePoint": 126983
+  },
+  {
+    "char": "🀈",
+    "unicode": "1F008",
+    "description": "MAHJONG TILE TWO OF CHARACTERS",
+    "fromCodePoint": 126984
+  },
+  {
+    "char": "🀉",
+    "unicode": "1F009",
+    "description": "MAHJONG TILE THREE OF CHARACTERS",
+    "fromCodePoint": 126985
+  },
+  {
+    "char": "🀊",
+    "unicode": "1F00A",
+    "description": "MAHJONG TILE FOUR OF CHARACTERS",
+    "fromCodePoint": 126986
+  },
+  {
+    "char": "🀋",
+    "unicode": "1F00B",
+    "description": "MAHJONG TILE FIVE OF CHARACTERS",
+    "fromCodePoint": 126987
+  },
+  {
+    "char": "🀌",
+    "unicode": "1F00C",
+    "description": "MAHJONG TILE SIX OF CHARACTERS",
+    "fromCodePoint": 126988
+  },
+  {
+    "char": "🀍",
+    "unicode": "1F00D",
+    "description": "MAHJONG TILE SEVEN OF CHARACTERS",
+    "fromCodePoint": 126989
+  },
+  {
+    "char": "🀎",
+    "unicode": "1F00E",
+    "description": "MAHJONG TILE EIGHT OF CHARACTERS",
+    "fromCodePoint": 126990
+  },
+  {
+    "char": "🀏",
+    "unicode": "1F00F",
+    "description": "MAHJONG TILE NINE OF CHARACTERS",
+    "fromCodePoint": 126991
+  },
+  {
+    "char": "🀐",
+    "unicode": "1F010",
+    "description": "MAHJONG TILE ONE OF BAMBOOS",
+    "fromCodePoint": 126992
+  },
+  {
+    "char": "🀑",
+    "unicode": "1F011",
+    "description": "MAHJONG TILE TWO OF BAMBOOS",
+    "fromCodePoint": 126993
+  },
+  {
+    "char": "🀒",
+    "unicode": "1F012",
+    "description": "MAHJONG TILE THREE OF BAMBOOS",
+    "fromCodePoint": 126994
+  },
+  {
+    "char": "🀓",
+    "unicode": "1F013",
+    "description": "MAHJONG TILE FOUR OF BAMBOOS",
+    "fromCodePoint": 126995
+  },
+  {
+    "char": "🀔",
+    "unicode": "1F014",
+    "description": "MAHJONG TILE FIVE OF BAMBOOS",
+    "fromCodePoint": 126996
+  },
+  {
+    "char": "🀕",
+    "unicode": "1F015",
+    "description": "MAHJONG TILE SIX OF BAMBOOS",
+    "fromCodePoint": 126997
+  },
+  {
+    "char": "🀖",
+    "unicode": "1F016",
+    "description": "MAHJONG TILE SEVEN OF BAMBOOS",
+    "fromCodePoint": 126998
+  },
+  {
+    "char": "🀗",
+    "unicode": "1F017",
+    "description": "MAHJONG TILE EIGHT OF BAMBOOS",
+    "fromCodePoint": 126999
+  },
+  {
+    "char": "🀘",
+    "unicode": "1F018",
+    "description": "MAHJONG TILE NINE OF BAMBOOS",
+    "fromCodePoint": 127000
+  },
+  {
+    "char": "🀙",
+    "unicode": "1F019",
+    "description": "MAHJONG TILE ONE OF CIRCLES",
+    "fromCodePoint": 127001
+  },
+  {
+    "char": "🀚",
+    "unicode": "1F01A",
+    "description": "MAHJONG TILE TWO OF CIRCLES",
+    "fromCodePoint": 127002
+  },
+  {
+    "char": "🀛",
+    "unicode": "1F01B",
+    "description": "MAHJONG TILE THREE OF CIRCLES",
+    "fromCodePoint": 127003
+  },
+  {
+    "char": "🀜",
+    "unicode": "1F01C",
+    "description": "MAHJONG TILE FOUR OF CIRCLES",
+    "fromCodePoint": 127004
+  },
+  {
+    "char": "🀝",
+    "unicode": "1F01D",
+    "description": "MAHJONG TILE FIVE OF CIRCLES",
+    "fromCodePoint": 127005
+  },
+  {
+    "char": "🀞",
+    "unicode": "1F01E",
+    "description": "MAHJONG TILE SIX OF CIRCLES",
+    "fromCodePoint": 127006
+  },
+  {
+    "char": "🀟",
+    "unicode": "1F01F",
+    "description": "MAHJONG TILE SEVEN OF CIRCLES",
+    "fromCodePoint": 127007
+  },
+  {
+    "char": "🀠",
+    "unicode": "1F020",
+    "description": "MAHJONG TILE EIGHT OF CIRCLES",
+    "fromCodePoint": 127008
+  },
+  {
+    "char": "🀡",
+    "unicode": "1F021",
+    "description": "MAHJONG TILE NINE OF CIRCLES",
+    "fromCodePoint": 127009
+  },
+  {
+    "char": "🀢",
+    "unicode": "1F022",
+    "description": "MAHJONG TILE PLUM",
+    "fromCodePoint": 127010
+  },
+  {
+    "char": "🀣",
+    "unicode": "1F023",
+    "description": "MAHJONG TILE ORCHID",
+    "fromCodePoint": 127011
+  },
+  {
+    "char": "🀤",
+    "unicode": "1F024",
+    "description": "MAHJONG TILE BAMBOO",
+    "fromCodePoint": 127012
+  },
+  {
+    "char": "🀥",
+    "unicode": "1F025",
+    "description": "MAHJONG TILE CHRYSANTHEMUM",
+    "fromCodePoint": 127013
+  },
+  {
+    "char": "🀦",
+    "unicode": "1F026",
+    "description": "MAHJONG TILE SPRING",
+    "fromCodePoint": 127014
+  },
+  {
+    "char": "🀧",
+    "unicode": "1F027",
+    "description": "MAHJONG TILE SUMMER",
+    "fromCodePoint": 127015
+  },
+  {
+    "char": "🀨",
+    "unicode": "1F028",
+    "description": "MAHJONG TILE AUTUMN",
+    "fromCodePoint": 127016
+  },
+  {
+    "char": "🀩",
+    "unicode": "1F029",
+    "description": "MAHJONG TILE WINTER",
+    "fromCodePoint": 127017
+  },
+  {
+    "char": "🀪",
+    "unicode": "1F02A",
+    "description": "MAHJONG TILE JOKER",
+    "fromCodePoint": 127018
+  },
+  {
+    "char": "🀫",
+    "unicode": "1F02B",
+    "description": "MAHJONG TILE BACK",
+    "fromCodePoint": 127019
+  }
+]
