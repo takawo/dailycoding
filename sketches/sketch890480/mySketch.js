@@ -40,6 +40,7 @@ function keyPressed() {
 function gotFile(file) {
 	if (file.type === 'image') {
 		const img = createImg(file.data, "hogehoge", "", function() {
+			background(0, 0, 100);
 			imgs.push(img);
 			drawImages(0, 0, width);
 		}).hide();
